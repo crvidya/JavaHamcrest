@@ -8,3 +8,6 @@ jdk:
   
 script:
   - ant javadoc
+notifications:
+    email:
+        - crvidya@ymail.com
